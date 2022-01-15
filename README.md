@@ -1,3 +1,4 @@
+![School](https://raw.githubusercontent.com/jmsuarez1997/School_District_Analysis/main/Resources/school.png)
 # School District Analysis
 
 ## Overview of School District Analysis
