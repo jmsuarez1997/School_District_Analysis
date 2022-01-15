@@ -16,7 +16,7 @@ District summary after THS scores were changed.
 
 ![District Summary THS](https://raw.githubusercontent.com/jmsuarez1997/School_District_Analysis/main/Resources/district_summary_THS.png)
 
-Average math score decreased by .1 of a point. Percent passing math, reading, and overall passing decreased by less than one percent. 
+Average math score decreased by .1 of a point. Percent passing math, reading, and overall decreased by .2, .1, and .3 percent respectfully.
 
 **How is the school summary affected?**
 
@@ -86,3 +86,4 @@ Replacing the scores had no change to the type summary.
 
 ## Summary
 
+There were four overall changes to the analysis after the ninth-grade scores at THS were replaced with NaNs. The district summary average math score decreased by .1 of a point. The district summary percent passing math decreased by .2%, percent passing reading decreased by .1%, and overall passing decreased by .3%. On the school summary for THS, average math scores decreased by .1 of a point and average reading scores increased by .05 of a point. On the school summary for THS, percent passing math decreased by .1%, percent passing reading decreased by .3%, and overall passing decreased by .3%. 
